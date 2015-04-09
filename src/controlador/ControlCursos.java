@@ -50,9 +50,5 @@ public class ControlCursos implements ActionListener{
         
     }
     
-    public void nada(){
-        
-    }
-    
 }
 
